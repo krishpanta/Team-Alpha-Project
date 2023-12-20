@@ -1,6 +1,6 @@
 /*=============== BATTERY ===============*/
 initBattery()
-
+console.log("hellow woeld");
 function initBattery(){
     const batteryLiquid = document.querySelector('.battery__liquid'),
           batteryStatus = document.querySelector('.battery__status'),
